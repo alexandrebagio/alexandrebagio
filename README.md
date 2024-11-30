@@ -5,7 +5,7 @@
 
 ## Senior Full Stack Developer 🩷 about what he does!
 
-Senior Developer with over 10 years of experience, specialized in PHP, Javascript, PostgreSql and MySql
+I am a developer with over 10 years of experience in the technology field. My professional focus is PHP and I have solid knowledge in technologies such as Laravel, Docker, PL/SQL and JavaScript. My passion for technology leads me to learn basically about anything in the field. I have good experience in building applications for mobile devices, infrastructure and continuous delivery of applications, frontend, backend of other technologies such as (NodeJS, Express, Codeigniter), code versioning (GIT), team leadership (Scrum master), code review, cleancode, PSR regulations and testing (PHPunit).
 
 ## My skills
 
